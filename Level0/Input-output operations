@@ -1,4 +1,4 @@
-#
+What is input/output in C++ ?
 * Input Stream: If the direction of flow of bytes is from the device(for example, Keyboard) to the main memory then this process is called input.
 * Output Stream: If the direction of flow of bytes is opposite, i.e. from main memory to device( display screen ) then this process is called output.
 
@@ -8,3 +8,22 @@ Header files available in C++ for Input/Output operations are:
 2. iomanip: (input-output manipulators)- The methods declared in these files are used for manipulating streams. This file contains definitions of setw, setprecision, etc.
 3. fstream: describes the file stream,used to handle the data being read from a file as input or data being written into the file as output.
 4. bits/stdc++: includes every standard library. In programming contests, using this file is a good idea, when you want to reduce the time wasted in doing chores; especially when your rank is time sensitive.bits/stdc++.h is a non-standard header file of GNU C++ library.So, compiling with other compiler other than GCC it might fail; e.g. MSVC do not have this header.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
